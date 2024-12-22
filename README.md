@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  shreyassk.com - v1
+  shreyasskasetty.github.io - v1
 </h1>
 
 <p align="center">
