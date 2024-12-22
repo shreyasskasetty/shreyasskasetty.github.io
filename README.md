@@ -16,6 +16,8 @@
 
 ---
 
+![demo](https://raw.githubusercontent.com/shreyasskasetty/Portfolio-Website/main/src/images/demo.png)
+
 ## 🚨 Forking this Repo (Please Read!)
 
 I’m excited to keep this site open source and welcome folks to study or even reuse parts of it for their own projects! However, please remember **attribution is important**.
