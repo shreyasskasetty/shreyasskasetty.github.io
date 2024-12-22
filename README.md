@@ -9,9 +9,9 @@
 
 <p align="center">
   The first iteration of
-  <a href="https://shreyassk.com" target="_blank">shreyassk.com</a> built with
+  <a href="https://shreyasskasetty.github.io/" target="_blank">shreyasskasetty.github.io</a> built with
   <a href="https://www.gatsbyjs.com" target="_blank">Gatsby</a> and hosted with
-  <a href="https://www.netlify.com" target="_blank">Netlify</a>.
+  <a href="https://www.netlify.com" target="_blank">GH-Pages</a>.
 </p>
 
 ---
