@@ -1,6 +1,15 @@
 module.exports = {
   email: 'shreyasskasetty@tamu.edu',
-
+  siteTitle: 'Shreyas Shivakumar Kasetty | Software Developer',
+  siteDescription:
+    'Shreyas Shivakumar Kasetty holds a Bachelors degree in Computer Science from RV College of Engineering and is pursuing Masters in Computer Science(May\'25) at Texas A&M University, College Station.',
+  siteKeywords:
+    'Shreyas Shivakumar Kasetty, Shreyas, Kasetty, shreyasskasetty,  Software Developer, Software Engineer, Competitive Programmer, Java Developer, Akamai Technologies, Texas A&M University, College Station, TAMU',
+  siteUrl: 'https://shreyasskasetty.github.io/Portfolio-Website',
+  siteLanguage: 'en_US',
+  name: 'Shreyas Shivakumar Kasetty',
+  location: 'College Station, TX',
+  googleAnalyticsID: 'G-0QZH87YVBE',
   socialMedia: [
     {
       name: 'GitHub',

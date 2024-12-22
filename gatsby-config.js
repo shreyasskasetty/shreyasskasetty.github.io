@@ -1,13 +1,9 @@
 const config = require('./src/config');
-const EventEmitter = require('events');
-const emitter = new EventEmitter();
-emitter.setMaxListeners(20);
 module.exports = {
   siteMetadata: {
-    title: 'Shreyas Shivakumar Kasetty',
-    description:
-      'Shreyas Kasetty is a software engineer who specializes in building scalable backend systems',
-    siteUrl: 'https://shreyasskasetty.com', // No trailing slash allowed!
+    title: config.siteTitle,
+    description: config.siteDescription,
+    siteUrl: config.siteUrl,
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
@@ -154,7 +150,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: config.googleAnalyticsID,
       },
     },
   ],

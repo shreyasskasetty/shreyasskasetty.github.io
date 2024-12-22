@@ -5,7 +5,7 @@
   "author": "Shreyas Shivakumar Kasetty <shreyas30kasetty@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shreyasskasetty/Portfolio-Website"
+    "url": "https://github.com/shreyasskasetty/shreyasskasetty.github.io"
   },
   "keywords": [
     "gatsby"
@@ -21,7 +21,8 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",
-    "lint-staged": "lint-staged"
+    "lint-staged": "lint-staged",
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [
@@ -62,6 +63,7 @@
     "scrollreveal": "^4.0.9",
     "styled-components": "^6.1.13"
   },
+  "homepage": "https://shreyasskasetty.github.io",
   "devDependencies": {
     "@babel/core": "^7.26.0",
     "@babel/eslint-parser": "^7.25.9",
@@ -69,11 +71,12 @@
     "@upstatement/eslint-config": "^3.0.0",
     "@upstatement/prettier-config": "^1.1.0",
     "babel-preset-gatsby": "^3.14.0",
-    "eslint": "^8.0.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-jsx-a11y": "^6.10.2",
-    "eslint-plugin-react": "^7.37.2",
+    "eslint": "^8.8.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
     "gatsby-remark-code-titles": "^1.1.0",
+    "gh-pages": "^6.2.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.2.11",
     "prettier": "^3.4.2"
