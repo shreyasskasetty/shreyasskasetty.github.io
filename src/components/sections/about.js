@@ -154,17 +154,16 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Shreyas and I enjoy creating things that live on the internet. My
-              interest is in Backend Development started back in 2021 when I decided build a cloud
-              printing solution for a shop near my university — turns out designing and building an
+              interest in backend development started back in 2021 when I decided to build a cloud
+              printing solution for a shop near my university—turns out designing and building an
               end-to-end software solution taught me a lot about system design!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at ,
-              <a href="https://tti.tamu.edu/"> a research institute of Texas A&M university</a>,
-              <a href="https://www.cisco.com/"> a leading networking company</a>. My main focus
-              these days is building scalable backend solutions, applied AI automation tools and
-              deploying LLM based applications to the cloud.
+              <a href="https://tti.tamu.edu/"> Texas A&M Transportation Institute</a>,
+              <a href="https://www.cisco.com/"> Cisco Systems</a>. My main focus these days is on
+              building scalable backend solutions, AI applications, and deploying them to the cloud.
             </p>
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

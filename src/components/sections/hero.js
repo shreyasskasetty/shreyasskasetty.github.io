@@ -67,8 +67,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) scalable
-        backend systems. Currently, I’m focused on building end-to-end full stack applications at{' '}
+        I’m a software engineer specializing in building and designing scalable backend systems.
+        Currently, I’m focused on building end-to-end full stack applications at{' '}
         <a href="https://tti.tamu.edu" target="_blank" rel="noreferrer">
           Texas A&M Transportation Institute
         </a>
