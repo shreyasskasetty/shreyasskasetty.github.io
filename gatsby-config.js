@@ -5,9 +5,9 @@ module.exports = {
     title: 'Shreyas Shivakumar Kasetty',
     description:
       'Shreyas Kasetty is a software engineer who specializes in building scalable backend systems',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://shreyasskasetty.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Shreyas Shivakumar Kasetty',
+        short_name: 'Shreyas',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
@@ -44,13 +44,13 @@ module.exports = {
         path: `${__dirname}/content/`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `posts`,
-        path: `${__dirname}/content/posts`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `posts`,
+    //     path: `${__dirname}/content/posts`,
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
