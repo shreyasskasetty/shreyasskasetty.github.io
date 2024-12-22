@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://shreyasskasetty.com/sitemap-index.xml
-Host: https://shreyasskasetty.com
+Sitemap: https://shreyasskasetty.github.io/sitemap-index.xml
+Host: https://shreyasskasetty.github.io
