@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace this with your own logo or an image of your choosing -->
-  <img alt="Logo" src="https://via.placeholder.com/100" width="100" />
+   <img alt="Logo" src="https://raw.githubusercontent.com/shreyasskasetty/Portfolio-Website/main/src/images/logo.png" width="100" />
 </div>
 
 <h1 align="center">
