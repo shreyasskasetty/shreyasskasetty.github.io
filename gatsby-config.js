@@ -1,5 +1,7 @@
 const config = require('./src/config');
-require('events').setMaxListeners(20);
+const EventEmitter = require('events');
+const emitter = new EventEmitter();
+emitter.setMaxListeners(20);
 module.exports = {
   siteMetadata: {
     title: 'Shreyas Shivakumar Kasetty',
