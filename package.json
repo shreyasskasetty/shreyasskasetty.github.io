@@ -10,6 +10,7 @@
   "keywords": [
     "gatsby"
   ],
+  "packageManager": "npm@10.9.0",
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
