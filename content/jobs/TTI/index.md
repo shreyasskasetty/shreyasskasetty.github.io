@@ -7,6 +7,6 @@ range: 'March - December 2024'
 url: 'https://tti.tamu.edu/'
 ---
 
-- Engineered a microservice, handling submission and queuing of 5000+ image processing requests per month using RabbitMQ, Spring Boot, Docker, Kubernetes, Java, Python, AWS S3
-- Designed and implemented the customer facing website handling user and admin requests using NextJS, React and TailwindCSS
-- Reduced the monthly AWS bill of services by implementing S3 lifecycle policies, reducing storage costs by 5% across web services
+- Designed and developed a scalable event-driven backend system for pavement analysis using RabbitMQ and Springboot, capable of handling 10,000 concurrent users and reducing server costs by 20%
+- Spearheaded the transition to containerized and orchestrated environments using Docker and Kubernetes, cutting deployment times by 30%, enhancing resource utilization
+- Optimized AWS services by implementing S3 lifecycle policies, reducing storage costs by 5%

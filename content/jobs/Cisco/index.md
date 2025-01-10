@@ -7,6 +7,10 @@ range: 'Aug 2021 - July 2023'
 url: 'https://www.cisco.com/'
 ---
 
-- Developed microservices using spring boot for cisco optical network planner tool, enabling real-time bill of material generation for different network configurations
-- Architected and implemented a proof of concept for a real-time network monitoring tool handling 2 gigabytes of streaming data per second using Kafka, reducing troubleshooting time significantly and enabling real-time issue detection
-- Optimized the scheduling algorithm of optical line systems to decrease network failure detection time, resulting in a 33% improvement in detection speed
+- Developed a scalable system utilizing distributed microservice architecture for the Cisco Optical Network Planner enabling real-time, BOM calculations across multiple configurations
+- Architected and implemented a real-time data processing pipeline for network monitoring using Apache Kafka, enabling the analysis of 1 million events per second and reducing average time on analysis by 90%
+- Collaborated with 2 teammates to migrate a legacy monolithic application to a microservices architecture, reducing system downtime by 40% and improving scalibility
+- Spearheaded the design and rollout of a cloud-native, microservices-based platform leveraging Kubernetes, achieving a 30% faster deployment process and maintaining 99.99% availability for critical CONP services
+- Collaborated with test and firmware teams to understand their data visualization needs and improved network accessibility efficiency by 90%
+- Mentored 3 junior contract developers in best practices for Java development and code optimization, leading to a 15% increase in team productivity and code quality
+- Participated in agile development processes, delivering key features ahead of schedule and receiving recognition for outstanding teamwork and quality code contributions.
