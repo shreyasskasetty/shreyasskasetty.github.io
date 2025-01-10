@@ -3,7 +3,7 @@ date: '2023-08-09'
 title: 'Software Developer'
 company: 'TTI'
 location: 'Bryan, TX'
-range: 'March - December 2024'
+range: 'Aug 2023 - Present'
 url: 'https://tti.tamu.edu/'
 ---
 
